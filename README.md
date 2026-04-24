@@ -1,23 +1,35 @@
-# GovConRadar - Government Contract Alerts
+# GovConRadar
 
-**Never miss a government contract in your industry again.**
+**Automated SAM.gov monitoring. Stop spending 30 min/day manually searching for contracts.**
 
-Real-time alerts when new federal contracts are awarded in your niche, filtered by industry, size, and location.
+## The Problem
 
-## What It Does
-- Monitors SAM.gov for new contract awards in real-time
-- Filters by NAICS code, dollar size, and geography
-- Daily digest with opportunities matching your profile
+Small government contractors spend 10-20 hours/month manually searching SAM.gov for new opportunities. By the time they find relevant RFPs, competitors have a head start on proposals.
+
+## The Solution
+
+GovConRadar monitors SAM.gov continuously, filters by your NAICS codes, set-aside type, and geography, and sends alerts the moment relevant opportunities appear. Also tracks competitor wins.
+
+## Features
+
+- Real-time SAM.gov monitoring
+- Filtering by NAICS code, dollar size, set-aside, geography
 - Competitor win tracking
-- Historical analytics on contract trends
-
-## Who It Is For
-- Small government contractors
-- Companies entering the federal market
-- Business development teams tracking competitor wins
-- Subcontractors looking for prime contract opportunities
+- Price intelligence from awarded contracts
+- Daily digest or instant alerts
 
 ## Pricing
-Starting at $49/mo. Enterprise plans available.
 
-**[Start Monitoring](https://vogdiesel-create.github.io/exp-govcon-alerts-001/)**
+**$49/mo** -- free during early access.
+
+## Get Early Access
+
+[Sign up for early access](https://vogdiesel-create.github.io/exp-govcon-alerts-001/) and be the first to try it.
+
+## Status
+
+Currently in early access. We're onboarding users and collecting feedback.
+
+---
+
+Built with AI. Tested with real data. Priced for practitioners, not enterprises.
